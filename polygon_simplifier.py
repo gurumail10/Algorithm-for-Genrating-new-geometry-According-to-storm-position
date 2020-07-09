@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-@author: Greg Sigalov <arrowstem@gmail.com>
-Arrow Science & Technology, LLC
-Urbana, Illinois, USA
-"""
+
 
 import numpy as np
 import matplotlib.pyplot as plt
