@@ -1,1 +1,1 @@
-# Algorithm-for-Genrating-new-geometry-According-to-storm-position
+# Algorithm-for-Generating-new-geometry-According-to-storm-position
